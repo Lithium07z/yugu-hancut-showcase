@@ -1,0 +1,18 @@
+# Only reviewed showcase content belongs in this public repository.
+*
+!.gitignore
+!README.md
+!privacy-policy.ko.html
+!assets/
+!assets/icon-512.png
+!assets/feature-1024x500.png
+!docs/
+!docs/features.md
+!docs/testing.md
+!docs/release-notes.md
+!docs/privacy-policy.ko.md
+!.github/
+!.github/ISSUE_TEMPLATE/
+!.github/ISSUE_TEMPLATE/bug_report.yml
+!.github/ISSUE_TEMPLATE/feature_request.yml
+!.github/ISSUE_TEMPLATE/config.yml
